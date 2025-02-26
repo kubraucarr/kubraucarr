@@ -1,7 +1,7 @@
 ## Merhaba! Ben Kübra 👋
 
 ### Hakkımda
-- 🔭 Şu anda üzerinde çalıştığım projeler: [Medium](https://kubraucarr.github.io/Medium/), [Tatil Lokasyonu Kahire](https://kubraucarr.github.io/Kahire/), [Matematikçe](https://kubraucarr.github.io/Mat-WebSitesi/)
+- 🔭 Şu anda üzerinde çalıştığım projeler: [Medium](https://kubraucarr.github.io/Medium/), [Tatil Lokasyonu Kahire](https://kubraucarr.github.io/Kahire/), [Matematikçe](https://kubraucarr.github.io/Mat-WebSitesi/), [Book Store](https://kubraucarr.github.io/BookStoreProjesi/)
 - 🌱 Öğrenmekte olduğum teknolojiler: React, Node.js, Python, SQL Server
 - 📫 Bana ulaşın: [kvd.19998@gmail.com](kvd.19998@gmail.com)
 
